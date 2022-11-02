@@ -1,0 +1,159 @@
+html{
+    background-image: url(http://media.interiorexplorer.ru/objimgs/4/verybig/7/5002-12.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+}
+
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 14px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+.vk a:hover {background: #5d84ae; color: #fff;}
+
+.tel {
+    margin-left: 420%;
+}
+
+
+.polo{
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 10%;
+}
+
+.ppp1 {
+    margin-left: 300px;
+    margin-top: 50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+
+
+.comment {
+    position: absolute;
+    color: antiquewhite;
+    text-align: left;
+    background-color: rgb(4, 1, 1, 0.6);
+    width: 50%;
+    height: 100%;
+
+    
+    
+}
+
+.colortext{
+    background-color: rgb(230, 225, 219, 0.3);
+    color: rgb(255, 0, 149);
+}
+
+.poloz{
+    width: 60%;
+    text-align: center;
+    margin-left: 15%
+}
+
+
+.hh1{
+    
+    margin-left: 85px;
+    margin-bottom: 30px;
+    margin-top: 20vh;
+    color: rgb(64, 231, 13);
+}
+
+.pp1{
+    margin-top: 70px;
+    margin-left: 285px;
+
+}
+
+
+.zx1{
+    position:absolute;
+    margin-left: 8%;
+    margin-top: 30%;
+    opacity: 0.9;
+    
+}
+
+.zx2{
+    position:absolute;
+    margin-left: 15%;
+    margin-top: 35%;
+    opacity: 0.9;
+    text-align: center;
+    
+}
+
+.xx1{
+    position:absolute;
+    margin-left: 21%;
+    margin-top: 40%;
+    opacity: 0.9;
+    text-align: center;
+
+}
+
+.paragraf{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: left;
+    color: rgba(36, 61, 50, 0.788);
+}
+
+.raspol{
+    width: 40%;
+    height: 300px;
+    position: relative;
+    margin-top: 50px;
+    border-radius: 28px;
+    float: right;
+    margin-right: 40px;
+    
+}
+
+
+img{
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0.5);
+}
+
+.btnbac{
+    background-color: rgb(10, 10, 10, 0.2);
+    color: #ccc;
+    
+}
+
+.btnbac:hover{
+    color: aquamarine;
+    background: #ccc;
+}
+
+.colorfr{
+    background-color: rgb(18, 16, 16, 0.5);
+    color: rgb(181, 53, 53, 0.4);
+}
+
+.colorfr:hover{
+    background: rgb(44, 26, 26);
+    color: bisque;
+}

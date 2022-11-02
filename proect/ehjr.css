@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    font-size: 18px;
+}
+
+
+.fora{
+    margin-top: 140px;
+    margin-left: 40%;
+}
+
+.btn{
+    background-color: rgb(50, 0, 250);
+    color: rgb(237, 237, 237);
+    border-radius: 16px;
+}
+
+.btn:hover{
+    color: blue;
+    background-color: rgb(254, 252, 255);
+}
+
+.form-control{
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(251, 210, 156);
+}
